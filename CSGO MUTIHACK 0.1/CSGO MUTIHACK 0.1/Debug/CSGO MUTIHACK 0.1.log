@@ -1,0 +1,5 @@
+﻿  dllmain.cpp
+C:\Users\benja\source\repos\CSGO MUTIHACK 0.1\CSGO MUTIHACK 0.1\dllmain.cpp(272,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\benja\source\repos\CSGO MUTIHACK 0.1\CSGO MUTIHACK 0.1\dllmain.cpp(273,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\benja\source\repos\CSGO MUTIHACK 0.1\CSGO MUTIHACK 0.1\dllmain.cpp(358,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  CSGO MUTIHACK 0.1.vcxproj -> C:\Users\benja\source\repos\CSGO MUTIHACK 0.1\Debug\CSGO MUTIHACK 0.1.dll
